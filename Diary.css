@@ -193,6 +193,19 @@ padding:11px;
     padding: 8px;
     
 }
+.profilediv{
+ margin: 2% auto;
+ background: rgba(125, 63, 152, 0.52);
+        width: 40%;
+        font-family: 'Lato', sans-serif;
+}
+.profileSub{
+    font-size: 20px;
+    color: white;
+    text-transform: uppercase;
+    margin:10px;
+    padding:10px
+}
 
 
 
